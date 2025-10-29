@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src='(https://github.com/TheVarella/Sprint-1-Egydio/blob/main/logo.png)'>
+  <img src='(https://github.com/TheVarella/PIM-UNIP/blob/main/src/img/logo.png)'>
   <br>
   Callme App
 </h1>
